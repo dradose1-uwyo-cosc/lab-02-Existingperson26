@@ -24,7 +24,7 @@ print(cowboyMessage.title())
     # You will need to create your own variables and insert them  
     # the final message should read `The University of Wyoming was founded in 1886`
 
-schoolName = "The University of Wyoming"
+schoolName = "University of Wyoming"
 schoolDate = "1886"
 print(f"The {schoolName} was founded in {schoolDate}")
 
